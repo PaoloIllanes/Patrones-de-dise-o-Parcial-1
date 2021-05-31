@@ -1,6 +1,6 @@
 package abstractFactory.ejercicio;
 
-public class FactoryArtefactos implements IArtefacto {
+public class FactoryArtefactos  {
 
     public static IArtefacto make(String typeProduct){
         IArtefacto product;
